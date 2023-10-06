@@ -1,6 +1,7 @@
 
 # SoundBunker(팀명: BPM )
-![image](싸벙.png)
+![image](https://github.com/KyoJin-Hwang/SoundBunker/assets/84490050/f8ba9ebf-971e-4e0f-8023-6492f39e011b)
+
 
 ## 1. 프로젝트명
 * 움직임과 사물 감지를 통한 상황 맞춤 음악 스트리밍 서비스
