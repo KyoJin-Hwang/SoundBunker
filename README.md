@@ -59,6 +59,5 @@ Ajax 를 사용했던 js 파일에서 다른 js 파일로 결과값을 보내는
 그방법은 결과 값을 받은 ajax 안에 sessionStorage(localStorage).setItem('키', '값'));
 을 사용하여 다른 js 파일에서 sessionStorage(localStorage).getItem('키', '값')); 으로 결과값을 받아올 수 있게 되었다.
  
-* 문제2<br>
 
 
